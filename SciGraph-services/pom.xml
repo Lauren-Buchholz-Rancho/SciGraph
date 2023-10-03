@@ -146,7 +146,7 @@
     <dependency>
       <groupId>io.swagger</groupId>
       <artifactId>swagger-jersey2-jaxrs</artifactId>
-      <version>1.5.0</version>
+      <version>1.6.9</version>
     </dependency>
 
     <dependency>
@@ -158,7 +158,7 @@
     <dependency>
       <groupId>io.swagger</groupId>
       <artifactId>swagger-compat-spec-parser</artifactId>
-      <version>1.0.31</version>
+      <version>1.0.53</version>
     </dependency>
 
     <dependency>
